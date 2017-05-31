@@ -1,0 +1,13 @@
+/classes/
+/lib/
+/node_modules/
+/target/
+/bin/
+/checkouts
+default.etcd
+*.jar
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+figwheel_server.log
+pom.xml
