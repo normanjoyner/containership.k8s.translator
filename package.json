@@ -1,5 +1,5 @@
 {
-  "name": "@jeremykross/containership.k8s.translator",
+  "name": "@containership/containership.k8s.translator",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
