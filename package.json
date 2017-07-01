@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "containership.core.constants": "^0.3.0",
     "hashcode": "^1.0.3",
     "lodash": "^4.17.4"
   }
